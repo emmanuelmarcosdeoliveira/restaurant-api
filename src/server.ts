@@ -2,7 +2,7 @@ import express from "express";
 import { routes } from "./routes";
 import { errorHandling } from "./middlewares/error-handling";
 
-const PORT = "3333";
+const PORT = "3334";
 const app = express();
 app.use(express.json());
 app.use(routes);

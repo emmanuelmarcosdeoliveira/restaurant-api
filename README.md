@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Restaurant Banner](https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80)
+![Restaurant Banner](https://res.cloudinary.com/delo0gvyb/image/upload/v1753911197/Made_with_insMind-Flux_Dev_Create_an_image_that_presents_a_Backend_application_o_2_kk4kbb.jpg)
 
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=plastic&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=plastic&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
